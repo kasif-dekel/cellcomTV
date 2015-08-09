@@ -11,7 +11,7 @@ When you join the service you recieve the following SMS message:
 
 # The vulnerability
 
-What i basically did is to send a SMS message with a spoofed number and tried to change my own email-address.
+What i basically did is to send a SMS message with a spoofed number (my own number which associated with my account) and tried to change my own email-address.
 Well, it worked. Which means that everyone can hijack other's people accounts.
 
 
